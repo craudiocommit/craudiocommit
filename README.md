@@ -1,6 +1,8 @@
 <p>
-    <h4> 🧑🏿‍💻 Olá eu sou o Claudio Junior!</h4>
-</p>
+    <h4>🖖🏿 Olá eu sou o Claudio Junior!</h4>
+    <h3>🧑🏿‍💻 Estudande de programação.</h3>
+</p> 
+
 
 ##
 <div align="center">
