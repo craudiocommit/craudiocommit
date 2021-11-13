@@ -1,6 +1,5 @@
 <p>
     <h3>🖖🏿 Olá eu sou o Claudio Junior!</h3>
-    <h5>🧑🏿‍💻 Estudande de programação.</h5>
 </p> 
 
 
