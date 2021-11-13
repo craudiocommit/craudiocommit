@@ -1,5 +1,5 @@
 <p>
-    <h4>## Olá eu sou o Claudio Junior, estudante de programação.</h4>
+    <h4>## 🧑🏿‍💻 Olá eu sou o Claudio Junior!</h4>
 </p>
 
 ##
