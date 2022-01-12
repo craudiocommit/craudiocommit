@@ -1,5 +1,5 @@
 <p>
-    <h3>🖖🏿 Olá eu sou o Claudio Junior!</h3>
+    <h3>🖖🏿 Olá!</h3>
 </p> 
 
 
