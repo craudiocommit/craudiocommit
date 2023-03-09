@@ -2,7 +2,6 @@
     <h3>🖖🏿 Olá!</h3>
 </p> 
 
-
 ##
 <div align="center">
     <a href="https://github.com/craudiocommit">
