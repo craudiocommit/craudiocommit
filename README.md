@@ -12,7 +12,7 @@
 
 <br><br>
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: 0;">
   <tr style="border: 0;">
     <td style="border: 0; padding-right: 10px;">
       <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
