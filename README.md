@@ -12,25 +12,13 @@
 
 <br><br>
 
-<table style="border-collapse: collapse; border: 0;">
-  <tr style="border: 0;">
-    <td style="border: 0; padding-right: 10px;">
-      <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </td>
-    <td style="border: 0; padding-right: 10px;">
-      <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    </td>
-    <td style="border: 0; padding-right: 10px;">
-      <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </td>
-    <td style="border: 0; padding-right: 10px;">
-      <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
-    </td>
-    <td style="border: 0;">
-      <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </td>
-  </tr>
-</table>
+<p>
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">&nbsp;&nbsp;
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p>
 
 <br clear="all">
 
