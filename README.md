@@ -11,6 +11,10 @@
         
 </div>
 
+##
+
+<br><br>
+
 <table style="border-collapse: collapse;">
   <tr>
     <td style="border: none; padding-right: 10px;">
@@ -30,6 +34,7 @@
     </td>
   </tr>
 </table>
+
 <br clear="all">
 
 ##
