@@ -11,13 +11,15 @@
         
 </div>
 
-<p align="center">
-    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
-    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</p>
+<table align="center">
+  <tr>
+    <td><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
+    <td><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></td>
+    <td><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+    <td><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"></td>
+    <td><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+  </tr>
+</table>
 
 ##
 
