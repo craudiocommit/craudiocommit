@@ -12,8 +12,8 @@
 
 <br><br>
 
-<table style="border-collapse: collapse;">
-  <tr>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
     <td style="border: none; padding-right: 10px;">
       <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </td>
