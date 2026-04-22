@@ -13,7 +13,7 @@
 
 <br>
 
-<table align="center" style="border-collapse: collapse;">
+<table align="left" style="border-collapse: collapse;">
   <tr>
     <td style="border: none;"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
     <td style="border: none;"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></td>
