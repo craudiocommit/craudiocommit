@@ -11,6 +11,8 @@
         
 </div>
 
+<br>
+
 <table align="left" style="border-collapse: collapse;">
   <tr>
     <td style="border: none;"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
