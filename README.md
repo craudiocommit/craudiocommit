@@ -11,19 +11,26 @@
         
 </div>
 
-<br>
-
-<table align="left" style="border-collapse: collapse;">
+<table style="border-collapse: collapse;">
   <tr>
-    <td style="border: none;"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
-    <td style="border: none;"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></td>
-    <td style="border: none;"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
-    <td style="border: none;"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"></td>
-    <td style="border: none;"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+    <td style="border: none; padding-right: 10px;">
+      <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </td>
+    <td style="border: none; padding-right: 10px;">
+      <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    </td>
+    <td style="border: none; padding-right: 10px;">
+      <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </td>
+    <td style="border: none; padding-right: 10px;">
+      <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+    </td>
+    <td style="border: none;">
+      <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </td>
   </tr>
 </table>
-
-</br>
+<br clear="all">
 
 ##
 
